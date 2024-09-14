@@ -37,7 +37,7 @@ Classes Principais
 ## Exemplo de Uso
 No menu principal, você verá as seguintes opções:
 
-
+```
 =============== MENU ================
 [d]    Depositar
 [s]    Sacar
@@ -46,7 +46,7 @@ No menu principal, você verá as seguintes opções:
 [lc]   Listar contas
 [nu]   Novo usuário
 [q]    Sair
-
+```
 
 
 ## Fluxo de Exemplo:
