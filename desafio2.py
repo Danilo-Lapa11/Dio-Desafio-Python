@@ -190,7 +190,6 @@ def recuperar_conta_cliente(cliente: PessoaFisica):
     return cliente.contas[0]
 
 
-# Exemplo de uso:
 def main():
     clientes = []
     contas = []
